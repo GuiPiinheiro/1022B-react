@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+header{
+    height: 300px;
+    width: 100%;
+    border: 2px solid yellow;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    border: 2px solid red;
+}
